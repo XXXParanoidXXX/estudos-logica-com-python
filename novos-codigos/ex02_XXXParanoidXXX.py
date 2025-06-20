@@ -1,4 +1,4 @@
-#Contribuição de XXXParanoidXXX em 20/06/2025 --> adorei o seu curso de GitHub no dio.me. Obrigado allineantunnes
+#Contribuição de XXXParanoidXXX em 20/06/2025 --> adorei o seu curso de GitHub no dio.me. Obrigado allineantunnes!
 
 # Variável com uma string
 mensagem_inicial = "Bem-vindo ao cadastro de nomes!"
